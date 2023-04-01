@@ -12,4 +12,4 @@ git clone https://aur.archlinux.org/packettracer.git
 makepkg
 
 <h2>install the tar file with pacman</h2>
-sudo pacman -U <packetTracer-file-name.tar.zst>
+sudo pacman -U [packetTracer-file-name.tar.zst]
