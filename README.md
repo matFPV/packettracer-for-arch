@@ -7,9 +7,9 @@ git clone https://aur.archlinux.org/packettracer.git
 
 
 <h2>3. copy the .deb file to the directory of the script</h2>
-<h2>make the .zst file by runing the script</h2>
+<h2>4. make the .zst file by runing the script</h2>
 
 makepkg
 
-<h2>install the tar file with pacman</h2>
+<h2>5. install the tar file with pacman</h2>
 sudo pacman -U [packetTracer-file-name.tar.zst]
